@@ -1,0 +1,14 @@
+{
+  "name": "agent-stats",
+  "version": "1.0.0",
+  "description": "analyze status text file loaded",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "author": "kira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
