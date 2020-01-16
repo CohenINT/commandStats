@@ -1,7 +1,7 @@
 INSTALLTION:
 
 put your log file in logs folder.
-on main.js when calling commandStats() , add your file name togther with extention as a string parameter.=
+on main.js when calling commandStats() , add your file name togther with extention as a string parameter.
 open command line, type npm install 
 
 
